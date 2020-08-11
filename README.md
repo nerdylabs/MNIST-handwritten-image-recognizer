@@ -1,4 +1,4 @@
-# MINST-handwritten-image-recognizer
+# MNIST-handwritten-image-recognizer
 
 So the folowing repo is a basic application of neural networks for image classification
 In the code we use the MINST dataset provided by the famous Keras API. The dataset consits of hand witten grey scale images (of shape-(28,28, 1)) of numbers from 0-9, Our task is to make a neural network model to classify these images for the same.
